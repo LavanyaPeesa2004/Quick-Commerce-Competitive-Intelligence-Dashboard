@@ -28,13 +28,6 @@ The analysis focuses on:
 - Product category demand
 - Customer age segments
 
----
-
-## 📸 Dashboard Preview
-
-![Dashboard Preview](Images/dashboard.png)
-
----
 
 ## 📌 Key KPIs
 
