@@ -2,6 +2,14 @@
 Interactive Power BI dashboard benchmarking Blinkit, Zepto and Swiggy Instamart across revenue, orders, delivery efficiency, customer satisfaction, discounts and city-level demand.
 
 
+## 🎥 Interactive Dashboard Demo
+
+The dashboard supports dynamic filtering across platform,
+city, product category, payment method and discount status.
+
+[Watch the interactive dashboard demo](https://lnkd.in/p/d4R8sTwi)
+
+
 ## 📊 Power BI Portfolio Project
 
 An interactive Power BI dashboard designed to benchmark
@@ -111,14 +119,6 @@ analysis by:
 
 ---
 
-## 📂 Project Files
-
-- `Dashboard/` — Power BI dashboard
-- `Images/` — Dashboard screenshots
-- `Data/` — Dataset information
-- `Documentation/` — Project documentation
-
----
 
 ## 📊 Dataset
 
